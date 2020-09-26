@@ -27,7 +27,7 @@ The current date is stored in LocalStorage, when the window opens, if the curren
 
 Below is a screenshot demonstrating the interface.
 
-https://github.com/RAMulc/WorkDayScheduler/blob/master/Assets/images/WorkDayScheduler.png
+![WorkDayScheduler](https://github.com/RAMulc/WorkDayScheduler/blob/master/Assets/images/WorkDayScheduler.png)
 
 **<u>Core Files:</u>**
 
